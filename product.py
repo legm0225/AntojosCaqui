@@ -35,3 +35,6 @@ class Product:
 if __name__ == '__main__':
     p = Product('Globe 2', 'Is a colorful group globes', 500)
     print(p)
+
+def prueba():
+    print("Hola")
